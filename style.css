@@ -1,0 +1,29 @@
+div {
+text-align: center;
+overflow: hidden;
+border: 2px solid black;
+width: 600px; 
+height: 600px;
+background-color: rgb(197, 56, 56)
+}
+
+img {
+    width: 300px;
+
+}
+
+h1 {
+    font-size: 50pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+
+}
+
+h2 {
+    font-size: 20pt;
+    
+}
+p {
+    font-size: 28pt;
+    
+}
